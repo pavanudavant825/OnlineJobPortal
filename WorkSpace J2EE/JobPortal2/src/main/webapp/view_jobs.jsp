@@ -1,7 +1,7 @@
+<%@page import="com.DB.DBConnect"%>
 <%@page import="java.util.List"%>
 <%@page import="com.dao.JobDAO"%>
 <%@page import="com.entity.Jobs"%>
-<%@page import="com.DB.DBConnect"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page isELIgnored="false"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"

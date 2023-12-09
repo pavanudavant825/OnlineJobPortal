@@ -1,5 +1,5 @@
-<%@page import="com.entity.Jobs"%>
 <%@page import="com.DB.DBConnect"%>
+<%@page import="com.entity.Jobs"%>
 <%@page import="com.dao.JobDAO"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
